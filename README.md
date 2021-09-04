@@ -22,7 +22,8 @@
 
 <br />
 
-[linkedin]:https://www.linkedin.com/in/Gouri-M-Menon
+[linkedin]:https://www.linkedin.com/in/gouri-m-menon-3764b4202
+
 
 <!---
 Gourimmenon/Gourimmenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
