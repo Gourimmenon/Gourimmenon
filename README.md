@@ -10,7 +10,7 @@
 - 🆘 Hit me up if I can come of any help
 
 ### Hit me up:
-[<img align="left" alt=" gouri-m-menon | LinkedIn" width="24px" src="https://pngset.com/images/linkedin-icon-white-text-logo-symbol-trademark-transparent-png-851740.png" />][linkedin]
+[<img align="left" alt=" gouri-m-menon | LinkedIn" width="24px" src="https://www.pinclipart.com/picdir/big/574-5743993_linkedin-icon-white-png-clipart.png" />][linkedin]
 
 <br />
 
