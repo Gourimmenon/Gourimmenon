@@ -20,7 +20,7 @@
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Figma" width="32px"  src="https://img.icons8.com/fluency/48/000000/figma.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-
+<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br />
 
 [linkedin]:https://www.linkedin.com/in/gouri-m-menon-3764b4202
