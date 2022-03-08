@@ -18,7 +18,7 @@
 
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Figma" width="32px"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffigmadesign%2F&psig=AOvVaw3Botw767__F2dNzhxi-gho&ust=1646814717209000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDfhqaNtvYCFQAAAAAdAAAAABAD" />
+<img align="left" alt="Figma" width="32px"  src="https://img.icons8.com/fluency/48/000000/figma.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 
 <br />
