@@ -19,7 +19,7 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Figma" width="32px"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffigmadesign%2F&psig=AOvVaw3Botw767__F2dNzhxi-gho&ust=1646814717209000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDfhqaNtvYCFQAAAAAdAAAAABAD" />
-<img align="left" alt="Java" width="30px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3njjcbhbojbot.cloudfront.net%2Fapi%2Futilities%2Fv1%2Fimageproxy%2Fhttps%3A%2F%2Fcoursera-course-photos.s3.amazonaws.com%2F0a%2F8cd7f1b14344618b75142593bc7af8%2FJavaCupLogo800x800.png%3Fauto%3Dformat%252Ccompress%26dpr%3D1&imgrefurl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-introduction&tbnid=LeG4ZvjJ2Wa1KM&vet=12ahUKEwikj_rPjbb2AhUaR2wGHWqvDb4QMygIegUIARDmAQ..i&docid=Z8UR7iDsuVTukM&w=1200&h=1200&q=java&ved=2ahUKEwikj_rPjbb2AhUaR2wGHWqvDb4QMygIegUIARDmAQ" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 
 <br />
 
