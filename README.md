@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m @Gourimmenon
-- 👀 I’m interested in graphic designing, programming and web developement ...
-- 🌱 I’m currently refining my programming and developement skills ...
+- 👀 I’m interested in graphic designing, programming and Web & App developement
+- 🌱 I’m currently refining my programming and developement skills
 - 🆘 Hit me up if I can come of any help
 
 ### Hit me up:
