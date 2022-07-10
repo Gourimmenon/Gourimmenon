@@ -1,4 +1,4 @@
-## Heyyo People !
+## Hey Everyone !
 
 ### Student | Programming Enthusiast | Designer
 
